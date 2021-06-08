@@ -1,0 +1,44 @@
+body {
+  background-color: #212121;
+  color: #f6f7d7;
+}
+img{
+  background-color: #212121;
+}
+
+h1{
+  color: #14ffec;
+    background-color: #212121;
+}
+h3{
+  color: #14ffec;
+}
+h4{
+  color: #14ffec;
+}
+a{
+  color: #ff9a00;
+}
+a:hover{
+  color: #14ffec;
+}
+th{
+  color: #14ffec;
+}
+
+h1:hover{
+  color: #ff9a00;
+}
+/* this is a class*/
+
+.border{
+  border-radius: 30%;
+}
+
+hr {
+  background-color: #212121;
+  border-style: dotted none none;
+  border-color: #14ffec;
+  border-width: 4px;
+  width: 20%;
+}
